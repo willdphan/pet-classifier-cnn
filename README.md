@@ -7,29 +7,17 @@ During the testing phase, the code loads the test dataset and iterates over the 
 
 ## Steps to CNN
 1. Import Libraries
-
 2. Set Device and Retrieve Data
-
 3. Split Training Dataset
-
 4. Preprocess with ImageLoader Function
-
 5. Transform Datasets and Load into Preprocessor
-
 6. Load Preprocessed Datasets into DataLoader for Batch Training
-
 7. Load Pre-Trained Model
-
 9. Load Loss Function and Optimizer
-
 9. Train Function
-
 10. Test Function
-
 11. Save checkpoint
-
 12. Preprocess Untouched Testing Data and Get Results
-
 13. Create Function to Try with Random Images
 
 [Code](Pet_Classifier_CNN.ipynb)
